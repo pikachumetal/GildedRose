@@ -1,0 +1,6 @@
+C:\Users\pikac\Source\Repos\GildedRose\src\GildedRose.Console\bin\Debug\GildedRose.Console.exe.config
+C:\Users\pikac\Source\Repos\GildedRose\src\GildedRose.Console\bin\Debug\GildedRose.Console.exe
+C:\Users\pikac\Source\Repos\GildedRose\src\GildedRose.Console\bin\Debug\GildedRose.Console.pdb
+C:\Users\pikac\Source\Repos\GildedRose\src\GildedRose.Console\obj\Debug\GildedRose.Console.csprojResolveAssemblyReference.cache
+C:\Users\pikac\Source\Repos\GildedRose\src\GildedRose.Console\obj\Debug\GildedRose.Console.exe
+C:\Users\pikac\Source\Repos\GildedRose\src\GildedRose.Console\obj\Debug\GildedRose.Console.pdb
